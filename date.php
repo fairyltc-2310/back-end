@@ -10,7 +10,7 @@
 </head>
 <body>
     <?php
-    echo <h1>"xin chào !"<\h1>
+    echo '<h1>"xin chào !"</h1>';
     ?>
 </body>
 </html>
