@@ -1,4 +1,3 @@
 <?php
-echo'hello eveyone';
-echo date ('d/m/Y');
+echo <h1>"xin chào !"<\h1>
 ?>
