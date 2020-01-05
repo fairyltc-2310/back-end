@@ -1,3 +1,4 @@
 <?php
-echo'hello';
+echo'hello eveyone';
+echo date ('d/m/Y');
 ?>
